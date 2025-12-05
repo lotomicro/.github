@@ -12,5 +12,5 @@
   </picture>
 </div>
 <div align="center">
-  <font size=16 color=D47557 >XAIFY</font>
+  <font size=16 color=D47557 >LOTOMIC</font>
 </div>
